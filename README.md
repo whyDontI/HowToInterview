@@ -21,7 +21,7 @@ Feel free to point out errors.
 13. Check if this candidate is same or better than the current engineers on the same position?
 
 
-### How to Interview(TS;VM)
+### How to Interview(TS;WM)
 
 **Preparing as an interviewer**
 
